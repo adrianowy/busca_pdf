@@ -1,0 +1,44 @@
+Física: Ciclo de Carnot
+Máquinas Térmicas: Uma máquina térmica é um dispositivo que recebe calor de um ambiente e realiza trabalho. Em motores a vapor a água ferve e movimenta p pistões. Em motores a gasolina ou a diesel a explosão . controlada dos mesmos no cilindro provoca o giro do motor. Na máquina térmica ideal: “Em uma máquina térmica ideal todos os processos são reversíveis e as transferências de energia são realizadas sem as perdas causadas por efeitos como o atrito e a turbulência.” como A máquina de Carnot, que é uma máquina térmica, possui um processo como o da figura ao lado, no qual uma fonte quente fornece calor para um motor, que gera um trabalho sobre o ambiente e envia um calor sobre uma fonte fria. p-V, É preciso considerar, para a máquina de Carnot, o ciclo indicado no diagrama p no qual ocorrem duas expansões isotérmicas e duas adiabáticas ( 0), que é ), percorrido no sentido horário. No gráfico, a transferência de calor no sistema ocorre nos processos AB e CD que são ocorre executados isotermicamente com o auxilio de um banho térmico, e nos processos BC e DA somente ocorre trabalho, executando os mesmos sem banho térmico e termicamente isolado. Uma expressão importante é a que relaciona a eficiência numa máquina de Carnot
+
+	
+
+	
+
+	
+
+	
+
+1
+
+	
+
+=1
+
+	
+
+A procura da máquina perfeita poderia indicar uma máquina térmica que pudesse transformar todo o calor recebido em trabalho. Infelizmente este é um sonho impossível porque, de acordo com as or equações acima, indicaria que TL deveria ser zero Kelvin, o que é impossível, tecnicamente, de , acontecer. Verificando a troca de entropia no ciclo de Carnot: ? A Máquina de Stirling: A máquina de Carnot é classificada como a de mais alta eficiência. No entanto, não mostra praticidade para sua construção. Uma diversificação dela é a Máquina de Stirling Stirling, que apresenta um ciclo de funcionamento semelhante, mas no qual os processos adiabáticos são substituídos por processos a vlolume constante. Percebe-se que as transferências de calor ocorrem em todos os se processos da Máquina de Stirling. A equação de efi eficiência não é igual a da máquina de Carnot e, inclusive, tem um valor menor. Por vibrarem menos e portanto, mais silenciosas são utilizadas em naves espaciais e submarinos militares. A Máquina de Combustão interna interna: Para máquinas de combustão interna, como o motor a gasolina, o ciclo pode ser aproximadamente descrito pelo diagrama ao lado. No qual ocorrem expansões com mesmo volume e adiabáticas, seguidas das compressões equivalentes. São descritas como admissão, compressão, explosão e exau são, exaustão. 	 	 	 	 0
+
+Física: Ciclo de Carnot
+Motor a Diesel ideal: No ciclo ideal do Diesel, conforme indicado na figura ao lado, o sistema sofre uma compressão ad adiabática de A para B (somente existe ar no cilindro neste processo de compressão) No ponto B o o compressão). combustivel é injetado e, a alta temperatura provoca a explosão da mistura. Combustivel continua sendo ejetado de B para C, provocando uma expansão à pressão constante. No ponto C o combutivel deixa de ser ejetado e a mistura sofre uma expansão adiabática. De D para A a válvula de exaustão é aberta e o sistema perde pressão com a saída da mistura e a entrada de ar, reiniciando o ciclo. Refrigeradores: Um refrigerador é uma máquina que utiliza trabalho para transferir energia de uma fonte fria para uma fonte quente. Na geladeira de nossa casa, este trabalho é feito por um compressor elétrico. Este ciclo é mostrado de acordo elétrico. com a figura ao lado. A eficiência, para refrigeradores, pode ser calculada por:
+
+	
+
+	
+
+	
+
+	
+
+	
+
+O refrigerador ideal seria o que não necessita de trabalho para transferir energia da fonte fria para a fonte quente. Clausius formulou um princípio que antecedeu a segunda lei da termodinâmica, dizendo que: “Não e possível um processo cujo único resultado seja transferir calor de u uma fonte mais fria para uma fonte mais quente”. Este processo está exemplificado na figura ao lado, em que calor é transferido diretamente de uma fonte fria para uma fonte quente, chamado refrigerador perfeito quente, perfeito. Isto contraria a Segunda Lei da Termodinâmi Termodinâmica, pois: ? 	 	 	 	 $0
+
+já que
+
+	!	
+
+	
+
+também é possível ver que nenhuma máquina é mais eficiente do que a máquina de Carnot. Para demonstrar isto, o desenho ao lado mostra duas máquinas acopladas, na situação em que a Máquina X realiza um trabalho que é totalmente utilizado no refrigerador de Carnot para levar calor da fonte fria para a fonte quente. Em um ciclo fechado, verifica-se que o trabalho é consumido, e se - # 	 o que mostra " " # um refrigerador perfeito, que não são possíveis de construir.
+
